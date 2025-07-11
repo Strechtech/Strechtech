@@ -147,8 +147,4 @@
 
 <div align="center">
   
-**"Code is poetry written in logic"**
 
-![Snake animation](https://github.com/Strechtech/Strechtech/blob/output/github-contribution-grid-snake.svg)
-
-</div>
