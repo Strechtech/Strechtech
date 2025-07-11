@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Strechtech&style=for-the-badge&color=blueviolet" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Strechtech?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Strechtech?style=for-the-badge&color=blueviolet" alt="GitHub stars" />
 </div>
 
 ---
@@ -16,101 +17,112 @@
 🌱 Currently expanding my knowledge in **Cloud Computing** and **DevOps**  
 🎓 Always learning new technologies and best practices  
 🌍 Based in **Ecuador** 🇪🇨  
-⚡ Fun fact: I enjoy building projects that solve real-world problems!</div>
+⚡ Fun fact: I enjoy building projects that solve real-world problems!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity logo" />
-</div>
+<div align="center">
 
-### **Frontend**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-</div>
+### **Programming Languages**
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,r,js,solidity" alt="Programming Languages" />
 
-### **Backend & Databases**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo" />
-</div>
+### **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend" />
+
+### **Backend & Database**
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Backend & Database" />
 
 ### **DevOps & Cloud**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+<img src="https://skillicons.dev/icons?i=aws,docker" alt="DevOps & Cloud" />
+
+### **Tools & IDE**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strechtech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Strechtech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&border_radius=10" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Strechtech&show_icons=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strechtech&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=10" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strechtech&theme=dracula&hide_border=false&border_radius=10" height="170" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strechtech&theme=dracula&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strechtech&theme=dracula&hide_border=true&border_radius=10" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Strechtech&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 💼 What I Do
 
-- 🔧 **Full Stack Development**: Building complete web applications from frontend to backend
-- 🌐 **Web Technologies**: Creating responsive and interactive user interfaces
-- 📱 **Mobile-First Design**: Developing applications with mobile experience in mind
-- 🛢️ **Database Management**: Designing and optimizing database structures
-- ☁️ **Cloud Solutions**: Deploying applications using cloud services
-- 🔗 **Blockchain**: Smart contract development with Solidity
-- 📊 **Data Analysis**: Using R and Python for data insights
-
----
-
-## 🎯 Currently Learning
-
-- Advanced AWS services
-- Docker containerization
-- TypeScript for better development experience
-- Modern React patterns and hooks
-
----
-
-## 🌟 Featured Projects
-
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=NOMBRE-DEL-REPO&theme=dracula&border_radius=10)](https://github.com/Strechtech/NOMBRE-DEL-REPO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=OTRO-REPO&theme=dracula&border_radius=10)](https://github.com/Strechtech/OTRO-REPO)
-
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔧 Full Stack Development</h3>
+        <p>Building complete web applications from frontend to backend with modern technologies</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 Web Technologies</h3>
+        <p>Creating responsive and interactive user interfaces with React and modern CSS</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🛢️ Database Design</h3>
+        <p>Designing and optimizing database structures for efficient data management</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>☁️ Cloud Solutions</h3>
+        <p>Deploying applications using AWS and containerization with Docker</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔗 Blockchain Development</h3>
+        <p>Smart contract development with Solidity for decentralized applications</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>📊 Data Analysis</h3>
+        <p>Using R and Python for data insights and statistical analysis</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
+
+## 🌱 Currently Learning
+
 <div align="center">
-  <i>🚀 Check out my repositories below for more projects!</i>
+  <img src="https://img.shields.io/badge/Advanced_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Advanced AWS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Strechtech&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 ---
@@ -133,12 +145,6 @@
   <a href="https://discord.com/users/tu-id" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strechtech&theme=dracula&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 ---
