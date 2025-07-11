@@ -1,57 +1,67 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Pachacama;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Pachacama;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Tech+Enthusiast+%F0%9F%92%BB;Blockchain+Explorer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Strechtech&style=for-the-badge&color=blueviolet" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Strechtech?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Strechtech&style=flat-square&color=8A2BE2" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FStrechtech&color=8A2BE2&style=flat-square" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-Yes!-8A2BE2?style=flat-square" alt="Collaboration" />
 </div>
 
 ---
 
-## 🎯 About Me-acerca de mi
+## 🚀 About Me
 
-🔭 I'm a **Full Stack Developer** passionate about creating innovative solutions  
-💻 I love working with both **frontend** and **backend** technologies  
-🌱 Currently expanding my knowledge in **Cloud Computing** and **DevOps**  
-🎓 Always learning new technologies and best practices  
-🌍 Based in **Ecuador** 🇪🇨  
-⚡ Fun fact: I enjoy building projects that solve real-world problems!
+💻 **Full Stack Developer** with expertise in web technologies and blockchain  
+🌐 Passionate about **decentralized applications** and **cloud solutions**  
+🔭 Currently working on **innovative projects** that bridge web2 and web3  
+📚 Continuous learner in **DevOps practices** and **system architecture**  
+🎯 Focused on **clean code**, **scalable solutions**, and **user experience**  
+🌍 Based in **Ecuador** 🇪🇨 | Open to remote opportunities  
+⚡ Fun fact: I enjoy solving complex problems with elegant code solutions
 
 ---
 
-## 🛠️ Tech Stack - habilidad tecnica
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **Programming Languages**
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,r,js,solidity" alt="Programming Languages" />
+### **Core Technologies**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" alt="Frontend" />
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Backend & Database" />
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### **DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=aws,docker" alt="DevOps & Cloud" />
-
-### **Tools & IDE**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strechtech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strechtech&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak" />
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Strechtech&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&custom_title=My%20GitHub%20Stats&card_width=500)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strechtech&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8&card_width=500)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strechtech&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&exclude_repo=repo1,repo2" width="50%" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Strechtech&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)
+
 </div>
 
 ---
@@ -59,92 +69,55 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Strechtech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💼 What I Do
-
-<div align="center">
   
-| 🔧 **Full Stack Development** | 🌐 **Web Technologies** |
-|:---:|:---:|
-| Building complete web applications from frontend to backend | Creating responsive and interactive user interfaces |
-| **🛢️ Database Design** | **☁️ Cloud Solutions** |
-| Designing and optimizing database structures | Deploying applications using AWS and Docker |
-| **🔗 Blockchain Development** | **📊 Data Analysis** |
-| Smart contract development with Solidity | Using R and Python for data insights |
+| **Badge** | **Description** |
+|-----------|----------------|
+| ![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | AWS Cloud Practitioner |
+| ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-8A2BE2?style=for-the-badge) | 1st Place in Local Hackathon |
+| ![Open Source Contributor](https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge) | Active Open Source Contributor |
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Advanced_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Advanced AWS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strechtech&theme=tokyo-night&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## 🎨 Code Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Strechtech&theme=tokyonight&hide_border=true&border_radius=10" alt="WakaTime Stats" />
-</div>
+- **Deepening** my knowledge in **AWS Solutions Architecture**
+- Exploring **Web3.js** and **Ethereum development**
+- Learning **Kubernetes** for container orchestration
+- Improving **system design** skills
 
 ---
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://youtube.com/tu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://twitter.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strechtech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu-id)
+
 </div>
 
 ---
 
-## 🔥 My Latest Projects
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=your-repo-name&theme=tokyonight&hide_border=true&border_radius=10" alt="Repo Card" />
-</div>
-
-<div align="center">
-  <i>🚀 Explore my repositories to see more of my work!</i>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Don't%20forget%20to%20⭐%20star%20some%20repositories!&descAlignY=50&descAlign=50"/>
-</div>
+## 🔥 Featured Projects
 
 <div align="center">
   
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=repo1&theme=radical)](https://github.com/Strechtech/repo1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=repo2&theme=radical)](https://github.com/Strechtech/repo2)
 
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/Strechtech/count.svg)
+  
+**"First, solve the problem. Then, write the code."** - John Johnson
+  
+</div>
