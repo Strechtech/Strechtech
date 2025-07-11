@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Me-acerca de mi
 
 🔭 I'm a **Full Stack Developer** passionate about creating innovative solutions  
 💻 I love working with both **frontend** and **backend** technologies  
