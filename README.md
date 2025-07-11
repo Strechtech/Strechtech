@@ -1,8 +1,22 @@
-# Hi 👋! I'm Juan Pachacama
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Juan+Pachacama;Full+Stack+Developer;From+Ecuador+%F0%9F%87%AA%F0%9F%87%A8;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-## 🚀 Full Stack Developer from Ecuador 🇪🇨
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Strechtech&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Strechtech?style=for-the-badge&color=blueviolet" alt="GitHub followers" />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with experience in both frontend and backend technologies, always eager to learn and build innovative solutions.
+---
+
+## 🎯 About Me
+
+🔭 I'm a **Full Stack Developer** passionate about creating innovative solutions  
+💻 I love working with both **frontend** and **backend** technologies  
+🌱 Currently expanding my knowledge in **Cloud Computing** and **DevOps**  
+🎓 Always learning new technologies and best practices  
+🌍 Based in **Ecuador** 🇪🇨  
+⚡ Fun fact: I enjoy building projects that solve real-world problems!</div>
 
 ---
 
@@ -55,12 +69,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with experie
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Strechtech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Strechtech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&border_radius=10" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Strechtech&theme=dracula&hide_border=false&border_radius=10" height="170" alt="streak graph" />
 </div>
 
 ---
@@ -88,33 +102,51 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with experie
 
 ## 🌟 Featured Projects
 
-*Coming soon! I'm working on some exciting projects that I'll showcase here.*
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=NOMBRE-DEL-REPO&theme=dracula&border_radius=10)](https://github.com/Strechtech/NOMBRE-DEL-REPO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Strechtech&repo=OTRO-REPO&theme=dracula&border_radius=10)](https://github.com/Strechtech/OTRO-REPO)
+
+</div>
+
+<div align="center">
+  <i>🚀 Check out my repositories below for more projects!</i>
+</div>
 
 ---
 
 ## 📫 Let's Connect!
 
-<div align="left">
+<div align="center">
   <a href="mailto:tu-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/tu-perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://youtube.com/tu-canal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.com/users/tu-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Strechtech&theme=dracula&hide_border=true&border_radius=10" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Don't%20forget%20to%20⭐%20star%20some%20repositories!&descAlignY=50&descAlign=50"/>
 </div>
 
 <div align="center">
-  <i>⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!</i>
+  <i>💡 "The best way to predict the future is to create it." - Peter Drucker</i>
 </div>
